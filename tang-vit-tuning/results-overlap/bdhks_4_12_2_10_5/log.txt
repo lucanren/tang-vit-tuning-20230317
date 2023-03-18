@@ -1,0 +1,212 @@
+Epoch 0 train loss is:0.013246332677300361
+Epoch 0 val loss is:0.0032320585016841217
+Epoch0 correlation is 0.09167333170635351
+Epoch 0: saved sucessfully.
+
+Epoch 1 train loss is:0.01210497545527623
+Epoch 1 val loss is:0.0041509483818940466
+Epoch1 correlation is 0.08540098251692234
+
+Epoch 2 train loss is:0.011928677394767018
+Epoch 2 val loss is:0.002795822776129676
+Epoch2 correlation is 0.15162775891605984
+Epoch 2: saved sucessfully.
+
+Epoch 3 train loss is:0.01173125674630351
+Epoch 3 val loss is:0.0028729693103019915
+Epoch3 correlation is 0.0834270797962952
+
+Epoch 4 train loss is:0.011591160343521659
+Epoch 4 val loss is:0.0028088725207092626
+Epoch4 correlation is 0.17587424360661805
+Epoch 4: saved sucessfully.
+
+Epoch 5 train loss is:0.011459294478025506
+Epoch 5 val loss is:0.00317688805184194
+Epoch5 correlation is 0.1451102707826874
+
+Epoch 6 train loss is:0.011430762272218571
+Epoch 6 val loss is:0.004216953910635932
+Epoch6 correlation is 0.11133822788283776
+
+Epoch 7 train loss is:0.011375866685610483
+Epoch 7 val loss is:0.0030039559060242027
+Epoch7 correlation is 0.09448605017237784
+
+Epoch 8 train loss is:0.011268995217595468
+Epoch 8 val loss is:0.0028176276717290635
+Epoch8 correlation is 0.2028244599876529
+Epoch 8: saved sucessfully.
+
+Epoch 9 train loss is:0.01123257885237827
+Epoch 9 val loss is:0.00283258650285591
+Epoch9 correlation is 0.21841842902829892
+Epoch 9: saved sucessfully.
+
+Epoch 10 train loss is:0.011199554305742768
+Epoch 10 val loss is:0.0026839919201660134
+Epoch10 correlation is 0.22509138914781518
+Epoch 10: saved sucessfully.
+
+Epoch 11 train loss is:0.0111682942795622
+Epoch 11 val loss is:0.002771995440568952
+Epoch11 correlation is 0.25944292298700594
+Epoch 11: saved sucessfully.
+
+Epoch 12 train loss is:0.011142612360417843
+Epoch 12 val loss is:0.002755299623545614
+Epoch12 correlation is 0.189454881866483
+
+Epoch 13 train loss is:0.011109768064363914
+Epoch 13 val loss is:0.0026307395596559795
+Epoch13 correlation is 0.2484683805107412
+
+Epoch 14 train loss is:0.011095008813611725
+Epoch 14 val loss is:0.002706447037838636
+Epoch14 correlation is 0.261804659751723
+Epoch 14: saved sucessfully.
+
+Epoch 15 train loss is:0.011093208868933075
+Epoch 15 val loss is:0.002617102988537342
+Epoch15 correlation is 0.25714063749180066
+
+Epoch 16 train loss is:0.011060761741965132
+Epoch 16 val loss is:0.0029346092473826416
+Epoch16 correlation is 0.12786583068117327
+
+Epoch 17 train loss is:0.01105789307307671
+Epoch 17 val loss is:0.002640342437810013
+Epoch17 correlation is 0.23110411011735763
+
+Epoch 18 train loss is:0.011054071033921312
+Epoch 18 val loss is:0.0026730876138788603
+Epoch18 correlation is 0.24179579513420285
+
+Epoch 19 train loss is:0.011027212844230234
+Epoch 19 val loss is:0.002619977955455108
+Epoch19 correlation is 0.2759904740498675
+Epoch 19: saved sucessfully.
+
+Epoch 20 train loss is:0.011017279918579495
+Epoch 20 val loss is:0.0030170870392346783
+Epoch20 correlation is 0.28009998953938925
+Epoch 20: saved sucessfully.
+
+Epoch 21 train loss is:0.010996317656601176
+Epoch 21 val loss is:0.002663844654018739
+Epoch21 correlation is 0.24559905302544544
+
+Epoch 22 train loss is:0.010985161468715351
+Epoch 22 val loss is:0.002680134542825972
+Epoch22 correlation is 0.23505099897011625
+
+Epoch 23 train loss is:0.010983644746901357
+Epoch 23 val loss is:0.00265351265561693
+Epoch23 correlation is 0.2560274349980276
+
+Epoch 24 train loss is:0.010976262519026505
+Epoch 24 val loss is:0.0027360869155797574
+Epoch24 correlation is 0.2783337665421325
+
+Epoch 25 train loss is:0.010963717257494435
+Epoch 25 val loss is:0.002652312478324073
+Epoch25 correlation is 0.27389443062205304
+
+Epoch 26 train loss is:0.01093818083914983
+Epoch 26 val loss is:0.0029281389600198183
+Epoch26 correlation is 0.27928228889761547
+
+Epoch 27 train loss is:0.01093400123989319
+Epoch 27 val loss is:0.0026474327259209183
+Epoch27 correlation is 0.25156375752704035
+
+Epoch 28 train loss is:0.01091766368093736
+Epoch 28 val loss is:0.0027451263177060772
+Epoch28 correlation is 0.2537297430840183
+
+Epoch 29 train loss is:0.010913464522865766
+Epoch 29 val loss is:0.002626181163433348
+Epoch29 correlation is 0.2600475491063921
+
+Epoch 30 train loss is:0.010901775126181104
+Epoch 30 val loss is:0.002643470295764033
+Epoch30 correlation is 0.265169233420568
+
+Epoch 31 train loss is:0.010876121800940703
+Epoch 31 val loss is:0.002680328360477847
+Epoch31 correlation is 0.26595202653681527
+
+Epoch 32 train loss is:0.010885856749051634
+Epoch 32 val loss is:0.0027741063672620508
+Epoch32 correlation is 0.2614514276614998
+
+Epoch 33 train loss is:0.010881190338117235
+Epoch 33 val loss is:0.0026290480182358314
+Epoch33 correlation is 0.29639302250959887
+Epoch 33: saved sucessfully.
+
+Epoch 34 train loss is:0.010865104530554484
+Epoch 34 val loss is:0.002629999467726087
+Epoch34 correlation is 0.2792351627225023
+
+Epoch 35 train loss is:0.010850997094612787
+Epoch 35 val loss is:0.002608203609097039
+Epoch35 correlation is 0.2648086547090471
+
+Epoch 36 train loss is:0.010835048719692757
+Epoch 36 val loss is:0.002585231128799182
+Epoch36 correlation is 0.2933322590162563
+
+Epoch 37 train loss is:0.01081945826009135
+Epoch 37 val loss is:0.0027381360950318
+Epoch37 correlation is 0.2976814973358312
+Epoch 37: saved sucessfully.
+
+Epoch 38 train loss is:0.010816153125399176
+Epoch 38 val loss is:0.0027294294494721624
+Epoch38 correlation is 0.2082631306572616
+
+Epoch 39 train loss is:0.010811938928878483
+Epoch 39 val loss is:0.002702055420423488
+Epoch39 correlation is 0.28894346325928905
+
+Epoch 40 train loss is:0.010796515414436512
+Epoch 40 val loss is:0.0026183054433204234
+Epoch40 correlation is 0.26796248701734
+
+Epoch 41 train loss is:0.010775554135222645
+Epoch 41 val loss is:0.0026820179939802203
+Epoch41 correlation is 0.29138624481647735
+
+Epoch 42 train loss is:0.010788535224931206
+Epoch 42 val loss is:0.003043214891231545
+Epoch42 correlation is 0.2661022059362277
+
+Epoch 43 train loss is:0.010756457946865874
+Epoch 43 val loss is:0.0026978826582697885
+Epoch43 correlation is 0.26386878026412686
+
+Epoch 44 train loss is:0.010769154171295026
+Epoch 44 val loss is:0.0027066525288983174
+Epoch44 correlation is 0.26151735170371215
+
+Epoch 45 train loss is:0.010759887356091949
+Epoch 45 val loss is:0.002707176897231312
+Epoch45 correlation is 0.2629081312725344
+
+Epoch 46 train loss is:0.010752255957354517
+Epoch 46 val loss is:0.002689149775837977
+Epoch46 correlation is 0.26701375281102624
+
+Epoch 47 train loss is:0.010736662606215652
+Epoch 47 val loss is:0.0027490807983595583
+Epoch47 correlation is 0.2583569178617311
+
+Epoch 48 train loss is:0.010738997092470526
+Epoch 48 val loss is:0.002706588645990465
+Epoch48 correlation is 0.29000451945793404
+
+Epoch 49 train loss is:0.010725580590612748
+Epoch 49 val loss is:0.0027699003971758344
+Epoch49 correlation is 0.2920031062895884
+
